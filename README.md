@@ -7,6 +7,9 @@
 * [Sources](#Sources)
 * [About Me](#about-me)
 
+### General Info
+* Basic Animation
+
 ### Technologies
 * HTML5
 * CSS3
